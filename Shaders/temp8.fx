@@ -13,7 +13,7 @@ uniform int DiamondSizeV<
 			CyCles<
 	ui_type="slider";
 	ui_min=1;ui_max=512;
-> =128;
+> =64;
 #include "ReShade.fxh"
 texture TargetMask{Width=BUFFER_WIDTH;Height=BUFFER_HEIGHT;Format=RGBA16;},
 		TargetPS1 {Width=BUFFER_WIDTH;Height=BUFFER_HEIGHT;Format=RGBA16;};
