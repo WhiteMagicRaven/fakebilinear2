@@ -6,3 +6,7 @@ An improvement of previous fakebilinear , code is still unoptimized, it produces
 This is ZDaemon its software rendered, shader makes it looks like it have bilinear texture filtering
 
 if you can't apply this or other shaders to your game, try to use dgVoodoo 2 to wrap old Graphical API's to new one, which will allow usage reshade after.
+
+Or glrage to wrap https://github.com/ata4/glrage ati3dcif to OpenGL.
+Or nglide for 3Dfx Voodoo Glide games.
+Or use emulator that can output graphic trough API, or can be wrapped to abpve API's =)
